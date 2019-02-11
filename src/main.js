@@ -42,6 +42,7 @@ const bienvenida = () =>{ //funcion muestra apartado Bienvenida
     box3.classList.add('hide');
 }
 
+
 buttonHome.addEventListener('click', bienvenida);
 
 
